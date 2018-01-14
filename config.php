@@ -1,10 +1,10 @@
 <?php
 
 // Connecting to the MySQL database
-$user = '';
-$password = '';
+$user = 'ticketfinder';
+$password = 'password';
 
-$database = new PDO('localhost', $user, $password);
+$database = new PDO('mysql:host=localhost;dbname=ticketfinder', $user, $password);
 
 function my_autoloader($class) {
     include 'classes/class.' . $class . '.php';

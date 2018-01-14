@@ -1,6 +1,6 @@
 <?php
 
-//I am the index page that will the house the listings
+// index page that will the house the listings
 include( 'config.php' );
 include( 'functions.php' );
 
