@@ -9,5 +9,3 @@ I utilized the Skeleton CSS Framework to speed up the design. Big thanks to dev 
 
 I'll likely come back to this project every now and again and use it as a playground to add more features if I'm trying to
 learn new things, fix any bugs, or I'm bored. 
-
--Brendan
